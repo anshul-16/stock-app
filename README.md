@@ -4,15 +4,33 @@ Phase3 Stock Application
 ## Microservices Names-
 ### 1. feign-service
 #### Endpoints- 
-- feign/{compId} GET returns company with company ID
-- feign/matching/{compName} GET reuters list of companies with company Name pattern
-- feign/ipos/{compName} GET returns ipo with given company Name
-- feign/sector/{compName} GET returns sector with given company Name
-- feign/se/{se} GET returns list of companies with given Stock Exchange
-- feign/se-service/{seId} GET returns the Stock Exchange object with the given seId
-- feign/se-service GET returns list of all Stock Exchange object
-- feign/add POST add the company details to the database
-- feign/se-service/ POST add the stock exchange details to the database
+- feign/{compId}   
+  Method - GET  
+  Returns company with company ID
+- feign/matching/{compName}  
+  Method - GET  
+  Returns list of companies with company Name pattern
+- feign/ipos/{compName}  
+  Method - GET  
+  Returns ipo with given company Name
+- feign/sector/{compName}  
+  Method - GET  
+  Returns sector with given company Name
+- feign/se/{se}
+  Method - GET  
+  Returns list of companies with given Stock Exchange
+- feign/se-service/{seId}
+  Method - GET  
+  Returns the Stock Exchange object with the given seId
+- feign/se-service
+  Method - GET  
+  Returns list of all Stock Exchange object
+- feign/add  
+  Method - POST  
+  Add the company details to the database
+- feign/se-service/  
+  Method - POST  
+  Add the stock exchange details to the database
 #### SWAGGER Screenshots-
 ![](images/feign-swagger-ss-1.png)
 
@@ -26,11 +44,21 @@ Phase3 Stock Application
 
 ### 3. company-details
 #### Endpoints-
-- companies/{compId} GET returns company with company ID
-- companies/matching/{compName} GET reuters list of companies with company Name pattern
-- companies/sector/{sector} GET returns list of companies in given sector
-- companies/se/{se} GET returns list of companies with given Stock Exchange
-- companies/add POST add the company details to the database
+- companies/{compId}  
+  Method - GET  
+  Returns company with company ID
+- companies/matching/{compName}  
+  Method - GET  
+  Returns list of companies with company Name pattern
+- companies/sector/{sector}  
+  Method - GET  
+  Returns list of companies in given sector
+- companies/se/{se}
+  Method - GET  
+  Returns list of companies with given Stock Exchange
+- companies/add  
+  Method - POST  
+  Add the company details to the database
 #### SWAGGER Screenshots- 
 ![](images/company-details-swagger-ss-1.png)
 
@@ -38,15 +66,23 @@ Phase3 Stock Application
 
 ### 4. ipo-service
 #### Endpoints-
-- ipos/{compId} GET returns list of ipos using company ID
+- ipos/{compId}  
+  Method - GET  
+  Returns list of ipos using company ID
 #### SWAGGER Screenshots-
 ![](images/ipo-swagger-ss-1.png)
 
 ### 5. se-service
 #### Endpoints-
-- /se/{seId} GET  GET returns the Stock Exchange object with the given seId
-- /se/  POST add the stock exchange details to the database
-- /se GET returns list of all Stock Exchange object
+- /se/{seId}  
+  Method - GET  
+  Returns the Stock Exchange object with the given seId
+- /se/  
+  Method - POST  
+  Add the stock exchange details to the database
+- /se  
+  Method - GET  
+  Returns list of all Stock Exchange object
 #### SWAGGER Screenshots-  
 ![](images/se-service-swagger-ss-1.png)
 
