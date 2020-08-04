@@ -95,6 +95,7 @@ Phase3 Stock Application
 ### 7. config-server
 
 ### 8. ZIPKIN-
+- JAR Link- https://drive.google.com/file/d/1cIAdvxKvXb9Uqv6b4Edce7aCfD1042_k/view?usp=sharing
 #### Screenshots- 
 ![](images/zipkin-ss-1.png)
 
