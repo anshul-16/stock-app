@@ -64,14 +64,14 @@ Phase3 Stock Application
 
 ![](images/zipkin-ss-2.png)
 
-## DEPLOYMENT (AWS)-
-- Link- http://stockappcompanydetails-env.eba-ezmrrzpn.ap-south-1.elasticbeanstalk.com/companies/100
-- Swagger Link - http://stockappcompanydetails-env.eba-ezmrrzpn.ap-south-1.elasticbeanstalk.com/swagger-ui.html
-
 ### SWAGGER In Action-
 ![](images/swagger-in-action-ss-1.png)
 
 ![](images/swagger-in-action-ss-2.png)
+
+## DEPLOYMENT (AWS)-
+- Link- http://stockappcompanydetails-env.eba-ezmrrzpn.ap-south-1.elasticbeanstalk.com/companies/100
+- Swagger Link - http://stockappcompanydetails-env.eba-ezmrrzpn.ap-south-1.elasticbeanstalk.com/swagger-ui.html
 
 ## USER INTERFACE (Angular)-  
 #### Stock Exchange List Page
