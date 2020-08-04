@@ -1,5 +1,5 @@
-# stock-app
-Phase3 Stock App
+# Stock App
+Phase3 Stock Application
 
 ## Microservices Names-
 ### 1. feign-service
