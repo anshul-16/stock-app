@@ -127,3 +127,9 @@ Phase3 Stock Application
 ![](images/testing-ss-1.png)![](images/testing-ss-2.png)![](images/testing-ss-3.png)  
 ![](images/testing-ss-4.png)![](images/testing-ss-5.png)
 
+<p float="left">
+  <img src="/images/testing-ss-1.png" width="100" />
+  <img src="/images/testing-ss-1.png" width="100" /> 
+  <img src="/images/testing-ss-1.png" width="100" />
+</p>
+
