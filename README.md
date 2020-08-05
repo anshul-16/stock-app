@@ -34,7 +34,7 @@ Phase3 Stock Application
 #### SWAGGER Screenshots-
 ![](images/feign-swagger-ss-1.png)
 
-![](images/feign-swagger-ss-1.png)
+![](images/feign-swagger-ss-2.png)
 
 ### 2. Eureka Discovery Service-
 #### Screenshots- 
@@ -121,4 +121,9 @@ Phase3 Stock Application
 
 #### Update Stock Exchange List Page  
 ![](images/ui-ss-4.png)
+
+
+#### JMeter Testing Screenshots  
+![](images/testing-ss-1.png)![](images/testing-ss-2.png)![](images/testing-ss-3.png)  
+![](images/testing-ss-4.png)![](images/testing-ss-5.png)
 
