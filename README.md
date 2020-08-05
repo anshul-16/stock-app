@@ -143,3 +143,5 @@ Docker implementation of company-service.
 - DockerHub link to run the service- docker pull anshul16/company-details  
 - Port used-5000
 - Use http://localhost:5000/swagger-ui.html to run on local machine.
+#### Screenshot
+![](images/docker-image-ss-1.png)
