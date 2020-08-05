@@ -123,7 +123,7 @@ Phase3 Stock Application
 ![](images/ui-ss-4.png)
 
 
-#### JMeter Testing Screenshots  
+## JMeter Testing Screenshots  
 <p float="left">
   <img src="/images/testing-ss-1.png" width="45%" />
   <img src="/images/testing-ss-2.png" width="45%" /> 
