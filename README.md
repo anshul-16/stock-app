@@ -138,3 +138,8 @@ Phase3 Stock Application
   <img src="/images/testing-ss-5.png" width="45%" />
 </p>
 
+## Docker  
+Docker implementation of company-service.
+- DockerHub link to run the service- docker pull anshul16/company-details  
+- Port used-5000
+- Use http://localhost:5000/swagger-ui.html to run on local machine.
