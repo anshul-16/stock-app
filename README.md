@@ -124,12 +124,17 @@ Phase3 Stock Application
 
 
 #### JMeter Testing Screenshots  
-![](images/testing-ss-1.png)![](images/testing-ss-2.png)![](images/testing-ss-3.png)  
-![](images/testing-ss-4.png)![](images/testing-ss-5.png)
+<p float="left">
+  <img src="/images/testing-ss-1.png" width="400" />
+  <img src="/images/testing-ss-2.png" width="400" /> 
+</p>
 
 <p float="left">
-  <img src="/images/testing-ss-1.png" width="100" />
-  <img src="/images/testing-ss-1.png" width="100" /> 
-  <img src="/images/testing-ss-1.png" width="100" />
+  <img src="/images/testing-ss-3.png" width="400" />
+  <img src="/images/testing-ss-4.png" width="400" /> 
+</p>
+
+<p float="left">
+  <img src="/images/testing-ss-5.png" width="400" />
 </p>
 
